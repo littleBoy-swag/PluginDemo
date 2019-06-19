@@ -1,3 +1,3 @@
 # PluginDemo
 
-## 可以使用plugin來實現插件化
+## 可以使用pluginlib库来实现插件化
